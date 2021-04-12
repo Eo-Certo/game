@@ -1,0 +1,24 @@
+# Starting compiling UnityEngine.TestRunner.dll
+F:\Unity\2020.3.3f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e09cf978482468a4291df30505fafbfe
+# Starting compiling UnityEngine.UI.dll
+F:\Unity\2020.3.3f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d872627cc377c644f810ebd9a8bd3e4e
+# Starting compiling UnityEditor.TestRunner.dll
+F:\Unity\2020.3.3f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-19691d6a87d0c1b4d8c8de656b379d04
+# Starting compiling UnityEditor.UI.dll
+F:\Unity\2020.3.3f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-c641c73682bd3eb49a5de188bf630ebe
+# Starting compiling Unity.VSCode.Editor.dll
+F:\Unity\2020.3.3f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d6c3468c1a19a4f4b9e6a46389c52d5b
+# Starting compiling Unity.VisualStudio.Editor.dll
+F:\Unity\2020.3.3f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-fa1555b7daa9b154ea655945520fc33b
+# Starting compiling Unity.Timeline.dll
+F:\Unity\2020.3.3f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-643cca42fc716a447b53e07ce3ff66c7
+# Starting compiling Unity.TextMeshPro.dll
+F:\Unity\2020.3.3f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-33389c372aadd4f44bd8c54c69950b43
+# Starting compiling Unity.CollabProxy.Editor.dll
+F:\Unity\2020.3.3f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e19260e29cccba44fa501e655296f310
+# Starting compiling Unity.Rider.Editor.dll
+F:\Unity\2020.3.3f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-40b3bbfbdee357049a3a2b1990bc71ea
+# Starting compiling Unity.Timeline.Editor.dll
+F:\Unity\2020.3.3f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-b19015f948c44b345b88c95900ab29f0
+# Starting compiling Unity.TextMeshPro.Editor.dll
+F:\Unity\2020.3.3f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0cb2e1606e786b443beaba03811695f7
