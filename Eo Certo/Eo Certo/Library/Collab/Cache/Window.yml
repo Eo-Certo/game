@@ -14,8 +14,1050 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/Asphalt_materials.meta
+    - Assets/Asphalt_materials/Materials.meta
+    - Assets/Asphalt_materials/Materials/Asphalt_material_1.mat
+    - Assets/Asphalt_materials/Materials/Asphalt_material_1.mat.meta
+    - Assets/Asphalt_materials/Materials/Asphalt_material_10.mat
+    - Assets/Asphalt_materials/Materials/Asphalt_material_10.mat.meta
+    - Assets/Asphalt_materials/Materials/Asphalt_material_11.mat
+    - Assets/Asphalt_materials/Materials/Asphalt_material_11.mat.meta
+    - Assets/Asphalt_materials/Materials/Asphalt_material_12.mat
+    - Assets/Asphalt_materials/Materials/Asphalt_material_12.mat.meta
+    - Assets/Asphalt_materials/Materials/Asphalt_material_13.mat
+    - Assets/Asphalt_materials/Materials/Asphalt_material_13.mat.meta
+    - Assets/Asphalt_materials/Materials/Asphalt_material_14.mat
+    - Assets/Asphalt_materials/Materials/Asphalt_material_14.mat.meta
+    - Assets/Asphalt_materials/Materials/Asphalt_material_2.mat
+    - Assets/Asphalt_materials/Materials/Asphalt_material_2.mat.meta
+    - Assets/Asphalt_materials/Materials/Asphalt_material_3.mat
+    - Assets/Asphalt_materials/Materials/Asphalt_material_3.mat.meta
+    - Assets/Asphalt_materials/Materials/Asphalt_material_4.mat
+    - Assets/Asphalt_materials/Materials/Asphalt_material_4.mat.meta
+    - Assets/Asphalt_materials/Materials/Asphalt_material_5.mat
+    - Assets/Asphalt_materials/Materials/Asphalt_material_5.mat.meta
+    - Assets/Asphalt_materials/Materials/Asphalt_material_6.mat
+    - Assets/Asphalt_materials/Materials/Asphalt_material_6.mat.meta
+    - Assets/Asphalt_materials/Materials/Asphalt_material_7.mat
+    - Assets/Asphalt_materials/Materials/Asphalt_material_7.mat.meta
+    - Assets/Asphalt_materials/Materials/Asphalt_material_8.mat
+    - Assets/Asphalt_materials/Materials/Asphalt_material_8.mat.meta
+    - Assets/Asphalt_materials/Materials/Asphalt_material_9.mat
+    - Assets/Asphalt_materials/Materials/Asphalt_material_9.mat.meta
+    - Assets/Asphalt_materials/Scenes.meta
+    - Assets/Asphalt_materials/Scenes/Demo Scene.unity
+    - Assets/Asphalt_materials/Scenes/Demo Scene.unity.meta
+    - Assets/Asphalt_materials/Textures.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1/AmbientOcclusionMap.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1/AmbientOcclusionMap.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1/Asphalt_texture1.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1/Asphalt_texture1.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1/DisplacementMap.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1/DisplacementMap.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1/Materials.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1/Materials/AmbientOcclusionMap.mat
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1/Materials/AmbientOcclusionMap.mat.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1/Materials/Asphalt_texture1.mat
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1/Materials/Asphalt_texture1.mat.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1/Materials/NormalMap.mat
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1/Materials/NormalMap.mat.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1/NormalMap.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture1/NormalMap.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture10.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture10/AmbientOcclusionMap-10.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture10/AmbientOcclusionMap-10.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture10/Asphalt_texture_10.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture10/Asphalt_texture_10.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture10/DisplacementMap-10.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture10/DisplacementMap-10.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture10/NormalMap-10.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture10/NormalMap-10.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture11.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture11/AmbientOcclusionMap-11.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture11/AmbientOcclusionMap-11.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture11/Asphalt_texture_11.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture11/Asphalt_texture_11.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture11/DisplacementMap-11.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture11/DisplacementMap-11.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture11/NormalMap-11.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture11/NormalMap-11.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture12.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture12/AmbientOcclusionMap-12.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture12/AmbientOcclusionMap-12.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture12/Asphalt_texture_12.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture12/Asphalt_texture_12.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture12/DisplacementMap-12.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture12/DisplacementMap-12.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture12/NormalMap-12.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture12/NormalMap-12.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture13.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture13/AmbientOcclusionMap-13.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture13/AmbientOcclusionMap-13.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture13/Asphalt_texture_13.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture13/Asphalt_texture_13.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture13/DisplacementMap-13.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture13/DisplacementMap-13.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture13/NormalMap-13.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture13/NormalMap-13.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture14.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture14/AmbientOcclusionMap-14.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture14/AmbientOcclusionMap-14.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture14/Asphalt_texture_14.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture14/Asphalt_texture_14.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture14/DisplacementMap-14.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture14/DisplacementMap-14.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture14/NormalMap-14.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture14/NormalMap-14.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture2.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture2/AmbientOcclusionMap-2.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture2/AmbientOcclusionMap-2.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture2/Asphalt_texture_2.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture2/Asphalt_texture_2.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture2/DisplacementMap-2.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture2/DisplacementMap-2.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture2/NormalMap-2.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture2/NormalMap-2.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture3.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture3/AmbientOcclusionMap-3.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture3/AmbientOcclusionMap-3.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture3/Asphalt_texture_3.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture3/Asphalt_texture_3.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture3/DisplacementMap-3.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture3/DisplacementMap-3.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture3/NormalMap-3.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture3/NormalMap-3.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture4.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture4/AmbientOcclusionMap-4.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture4/AmbientOcclusionMap-4.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture4/Asphalt_texture_4.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture4/Asphalt_texture_4.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture4/DisplacementMap-4.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture4/DisplacementMap-4.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture4/NormalMap-4.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture4/NormalMap-4.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture5.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture5/AmbientOcclusionMap-5.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture5/AmbientOcclusionMap-5.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture5/Asphalt_texture_5.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture5/Asphalt_texture_5.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture5/DisplacementMap-5.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture5/DisplacementMap-5.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture5/NormalMap-5.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture5/NormalMap-5.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture6.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture6/AmbientOcclusionMap-6.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture6/AmbientOcclusionMap-6.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture6/Asphalt_texture_6.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture6/Asphalt_texture_6.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture6/DisplacementMap-6.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture6/DisplacementMap-6.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture6/NormalMap-6.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture6/NormalMap-6.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture7.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture7/AmbientOcclusionMap-7.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture7/AmbientOcclusionMap-7.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture7/Asphalt_texture_7.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture7/Asphalt_texture_7.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture7/DisplacementMap-7.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture7/DisplacementMap-7.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture7/NormalMap-7.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture7/NormalMap-7.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture8.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture8/AmbientOcclusionMap-8.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture8/AmbientOcclusionMap-8.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture8/Asphalt_texture_8.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture8/Asphalt_texture_8.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture8/DisplacementMap-8.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture8/DisplacementMap-8.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture8/NormalMap-8.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture8/NormalMap-8.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture9.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture9/AmbientOcclusionMap-9.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture9/AmbientOcclusionMap-9.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture9/Asphalt_texture_9.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture9/Asphalt_texture_9.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture9/DisplacementMap-9.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture9/DisplacementMap-9.png.meta
+    - Assets/Asphalt_materials/Textures/Asphalt_texture9/NormalMap-9.png
+    - Assets/Asphalt_materials/Textures/Asphalt_texture9/NormalMap-9.png.meta
+    - Assets/BuildersTorch.meta
+    - Assets/BuildersTorch/HDRP_BuildersTorchExampleScene.meta
+    - Assets/BuildersTorch/HDRP_BuildersTorchExampleScene.unity
+    - Assets/BuildersTorch/HDRP_BuildersTorchExampleScene.unity.meta
+    - Assets/BuildersTorch/HDRP_BuildersTorchExampleScene/LightingData.asset
+    - Assets/BuildersTorch/HDRP_BuildersTorchExampleScene/LightingData.asset.meta
+    - Assets/BuildersTorch/HDRP_BuildersTorchExampleScene/ReflectionProbe-0.exr
+    - Assets/BuildersTorch/HDRP_BuildersTorchExampleScene/ReflectionProbe-0.exr.meta
+    - Assets/BuildersTorch/HDRP_BuildersTorchExampleScene/Scene Settings Profile.asset
+    - Assets/BuildersTorch/HDRP_BuildersTorchExampleScene/Scene Settings Profile.asset.meta
+    - Assets/BuildersTorch/Materials.meta
+    - Assets/BuildersTorch/Materials/Grey.mat
+    - Assets/BuildersTorch/Materials/Grey.mat.meta
+    - Assets/BuildersTorch/Materials/HDRP.meta
+    - Assets/BuildersTorch/Materials/HDRP/HDRP_BuildersTorch_lensMat.mat
+    - Assets/BuildersTorch/Materials/HDRP/HDRP_BuildersTorch_lensMat.mat.meta
+    - Assets/BuildersTorch/Materials/HDRP/HDRP_BuildersTorch_orange.mat
+    - Assets/BuildersTorch/Materials/HDRP/HDRP_BuildersTorch_orange.mat.meta
+    - Assets/BuildersTorch/Materials/HDRP/HDRP_BuildersTorch_yellow.mat
+    - Assets/BuildersTorch/Materials/HDRP/HDRP_BuildersTorch_yellow.mat.meta
+    - Assets/BuildersTorch/Materials/HDRP_Sky.mat
+    - Assets/BuildersTorch/Materials/HDRP_Sky.mat.meta
+    - Assets/BuildersTorch/Materials/PBR.meta
+    - Assets/BuildersTorch/Materials/PBR/PBR_BuildersTorch_lensMat.mat
+    - Assets/BuildersTorch/Materials/PBR/PBR_BuildersTorch_lensMat.mat.meta
+    - Assets/BuildersTorch/Materials/PBR/PBR_BuildersTorch_orange.mat
+    - Assets/BuildersTorch/Materials/PBR/PBR_BuildersTorch_orange.mat.meta
+    - Assets/BuildersTorch/Materials/PBR/PBR_BuildersTorch_yellow.mat
+    - Assets/BuildersTorch/Materials/PBR/PBR_BuildersTorch_yellow.mat.meta
+    - Assets/BuildersTorch/Materials/PBR/PBR_Grey.mat
+    - Assets/BuildersTorch/Materials/PBR/PBR_Grey.mat.meta
+    - Assets/BuildersTorch/Materials/PBR_Sky.mat
+    - Assets/BuildersTorch/Materials/PBR_Sky.mat.meta
+    - Assets/BuildersTorch/Misc.meta
+    - Assets/BuildersTorch/Misc/BuildersTorch.FBX
+    - Assets/BuildersTorch/Misc/BuildersTorch.FBX.meta
+    - Assets/BuildersTorch/Misc/environmentMap.png
+    - Assets/BuildersTorch/Misc/environmentMap.png.meta
+    - Assets/BuildersTorch/PBR_BuildersTorchExampleScene.unity
+    - Assets/BuildersTorch/PBR_BuildersTorchExampleScene.unity.meta
+    - Assets/BuildersTorch/Prefabs.meta
+    - Assets/BuildersTorch/Prefabs/BuildersTorch_HDRP_Orange.prefab
+    - Assets/BuildersTorch/Prefabs/BuildersTorch_HDRP_Orange.prefab.meta
+    - Assets/BuildersTorch/Prefabs/BuildersTorch_HDRP_Yellow.prefab
+    - Assets/BuildersTorch/Prefabs/BuildersTorch_HDRP_Yellow.prefab.meta
+    - Assets/BuildersTorch/Prefabs/BuildersTorch_PBR_Orange.prefab
+    - Assets/BuildersTorch/Prefabs/BuildersTorch_PBR_Orange.prefab.meta
+    - Assets/BuildersTorch/Prefabs/BuildersTorch_PBR_Yellow.prefab
+    - Assets/BuildersTorch/Prefabs/BuildersTorch_PBR_Yellow.prefab.meta
+    - Assets/BuildersTorch/Prefabs/Point light.prefab
+    - Assets/BuildersTorch/Prefabs/Point light.prefab.meta
+    - Assets/BuildersTorch/Textures.meta
+    - Assets/BuildersTorch/Textures/BuildersTorch_Albedo.png
+    - Assets/BuildersTorch/Textures/BuildersTorch_Albedo.png.meta
+    - Assets/BuildersTorch/Textures/BuildersTorch_Albedo_orange.png
+    - Assets/BuildersTorch/Textures/BuildersTorch_Albedo_orange.png.meta
+    - Assets/BuildersTorch/Textures/BuildersTorch_GlossMetal.tga
+    - Assets/BuildersTorch/Textures/BuildersTorch_GlossMetal.tga.meta
+    - Assets/BuildersTorch/Textures/BuildersTorch_cookie.png
+    - Assets/BuildersTorch/Textures/BuildersTorch_cookie.png.meta
+    - Assets/BuildersTorch/Textures/BuildersTorch_emissive.png
+    - Assets/BuildersTorch/Textures/BuildersTorch_emissive.png.meta
+    - Assets/BuildersTorch/Textures/BuildersTorch_lensOpacity.png
+    - Assets/BuildersTorch/Textures/BuildersTorch_lensOpacity.png.meta
+    - Assets/BuildersTorch/Textures/BuildersTorch_normal.png
+    - Assets/BuildersTorch/Textures/BuildersTorch_normal.png.meta
+    - Assets/Ground textures pack.meta
+    - Assets/Ground textures pack/Dry ground.meta
+    - Assets/Ground textures pack/Dry ground/Dry ground pattern.mat
+    - Assets/Ground textures pack/Dry ground/Dry ground pattern.mat.meta
+    - Assets/Ground textures pack/Dry ground/diffuse.tga
+    - Assets/Ground textures pack/Dry ground/diffuse.tga.meta
+    - Assets/Ground textures pack/Dry ground/normal.tga
+    - Assets/Ground textures pack/Dry ground/normal.tga.meta
+    - Assets/Ground textures pack/Dry ground/preview.jpg
+    - Assets/Ground textures pack/Dry ground/preview.jpg.meta
+    - Assets/Ground textures pack/Grass & dead leafs 01.meta
+    - Assets/Ground textures pack/Grass & dead leafs 01/Grass & dead leafs pattern
+      01.mat
+    - Assets/Ground textures pack/Grass & dead leafs 01/Grass & dead leafs pattern
+      01.mat.meta
+    - Assets/Ground textures pack/Grass & dead leafs 01/diffuse.tga
+    - Assets/Ground textures pack/Grass & dead leafs 01/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass & dead leafs 01/normal.tga
+    - Assets/Ground textures pack/Grass & dead leafs 01/normal.tga.meta
+    - Assets/Ground textures pack/Grass & dead leafs 01/preview.jpg
+    - Assets/Ground textures pack/Grass & dead leafs 01/preview.jpg.meta
+    - Assets/Ground textures pack/Grass & dead leafs 02.meta
+    - Assets/Ground textures pack/Grass & dead leafs 02/Grass & dead leafs pattern
+      02.mat
+    - Assets/Ground textures pack/Grass & dead leafs 02/Grass & dead leafs pattern
+      02.mat.meta
+    - Assets/Ground textures pack/Grass & dead leafs 02/diffuse.tga
+    - Assets/Ground textures pack/Grass & dead leafs 02/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass & dead leafs 02/normal.tga
+    - Assets/Ground textures pack/Grass & dead leafs 02/normal.tga.meta
+    - Assets/Ground textures pack/Grass & dead leafs 02/preview.jpg
+    - Assets/Ground textures pack/Grass & dead leafs 02/preview.jpg.meta
+    - Assets/Ground textures pack/Grass & rocks.meta
+    - Assets/Ground textures pack/Grass & rocks/Grass & rocks pattern.mat
+    - Assets/Ground textures pack/Grass & rocks/Grass & rocks pattern.mat.meta
+    - Assets/Ground textures pack/Grass & rocks/diffuse.tga
+    - Assets/Ground textures pack/Grass & rocks/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass & rocks/normal.tga
+    - Assets/Ground textures pack/Grass & rocks/normal.tga.meta
+    - Assets/Ground textures pack/Grass & rocks/preview.jpg
+    - Assets/Ground textures pack/Grass & rocks/preview.jpg.meta
+    - Assets/Ground textures pack/Grass 01.meta
+    - Assets/Ground textures pack/Grass 01/Grass pattern 01.mat
+    - Assets/Ground textures pack/Grass 01/Grass pattern 01.mat.meta
+    - Assets/Ground textures pack/Grass 01/diffuse.tga
+    - Assets/Ground textures pack/Grass 01/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass 01/normal.tga
+    - Assets/Ground textures pack/Grass 01/normal.tga.meta
+    - Assets/Ground textures pack/Grass 01/preview.jpg
+    - Assets/Ground textures pack/Grass 01/preview.jpg.meta
+    - Assets/Ground textures pack/Grass 02.meta
+    - Assets/Ground textures pack/Grass 02/Grass pattern 02.mat
+    - Assets/Ground textures pack/Grass 02/Grass pattern 02.mat.meta
+    - Assets/Ground textures pack/Grass 02/diffuse.tga
+    - Assets/Ground textures pack/Grass 02/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass 02/normal.tga
+    - Assets/Ground textures pack/Grass 02/normal.tga.meta
+    - Assets/Ground textures pack/Grass 02/preview.jpg
+    - Assets/Ground textures pack/Grass 02/preview.jpg.meta
+    - Assets/Ground textures pack/Grass 03.meta
+    - Assets/Ground textures pack/Grass 03/Grass pattern 03.mat
+    - Assets/Ground textures pack/Grass 03/Grass pattern 03.mat.meta
+    - Assets/Ground textures pack/Grass 03/diffuse.tga
+    - Assets/Ground textures pack/Grass 03/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass 03/normal.tga
+    - Assets/Ground textures pack/Grass 03/normal.tga.meta
+    - Assets/Ground textures pack/Grass 03/preview.jpg
+    - Assets/Ground textures pack/Grass 03/preview.jpg.meta
+    - Assets/Ground textures pack/Grass 04.meta
+    - Assets/Ground textures pack/Grass 04/Grass pattern 04.mat
+    - Assets/Ground textures pack/Grass 04/Grass pattern 04.mat.meta
+    - Assets/Ground textures pack/Grass 04/diffuse.tga
+    - Assets/Ground textures pack/Grass 04/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass 04/normal.tga
+    - Assets/Ground textures pack/Grass 04/normal.tga.meta
+    - Assets/Ground textures pack/Grass 04/preview.jpg
+    - Assets/Ground textures pack/Grass 04/preview.jpg.meta
+    - Assets/Ground textures pack/Grass 05.meta
+    - Assets/Ground textures pack/Grass 05/Grass pattern 05.mat
+    - Assets/Ground textures pack/Grass 05/Grass pattern 05.mat.meta
+    - Assets/Ground textures pack/Grass 05/diffuse.tga
+    - Assets/Ground textures pack/Grass 05/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass 05/normal.tga
+    - Assets/Ground textures pack/Grass 05/normal.tga.meta
+    - Assets/Ground textures pack/Grass 05/preview.jpg
+    - Assets/Ground textures pack/Grass 05/preview.jpg.meta
+    - Assets/Ground textures pack/Grass 06.meta
+    - Assets/Ground textures pack/Grass 06/Grass pattern 06.mat
+    - Assets/Ground textures pack/Grass 06/Grass pattern 06.mat.meta
+    - Assets/Ground textures pack/Grass 06/diffuse.tga
+    - Assets/Ground textures pack/Grass 06/diffuse.tga.meta
+    - Assets/Ground textures pack/Grass 06/normal.tga
+    - Assets/Ground textures pack/Grass 06/normal.tga.meta
+    - Assets/Ground textures pack/Grass 06/preview.jpg
+    - Assets/Ground textures pack/Grass 06/preview.jpg.meta
+    - Assets/Ground textures pack/Ground & moss.meta
+    - Assets/Ground textures pack/Ground & moss/Ground & moss pattern.mat
+    - Assets/Ground textures pack/Ground & moss/Ground & moss pattern.mat.meta
+    - Assets/Ground textures pack/Ground & moss/diffuse.tga
+    - Assets/Ground textures pack/Ground & moss/diffuse.tga.meta
+    - Assets/Ground textures pack/Ground & moss/normal.tga
+    - Assets/Ground textures pack/Ground & moss/normal.tga.meta
+    - Assets/Ground textures pack/Ground & moss/preview.jpg
+    - Assets/Ground textures pack/Ground & moss/preview.jpg.meta
+    - Assets/Ground textures pack/Ground & rocks 01.meta
+    - Assets/Ground textures pack/Ground & rocks 01/Ground & rocks pattern 01.mat
+    - Assets/Ground textures pack/Ground & rocks 01/Ground & rocks pattern 01.mat.meta
+    - Assets/Ground textures pack/Ground & rocks 01/diffuse.tga
+    - Assets/Ground textures pack/Ground & rocks 01/diffuse.tga.meta
+    - Assets/Ground textures pack/Ground & rocks 01/normal.tga
+    - Assets/Ground textures pack/Ground & rocks 01/normal.tga.meta
+    - Assets/Ground textures pack/Ground & rocks 01/preview.jpg
+    - Assets/Ground textures pack/Ground & rocks 01/preview.jpg.meta
+    - Assets/Ground textures pack/Ground & rocks 02.meta
+    - Assets/Ground textures pack/Ground & rocks 02/Ground & rocks pattern 02.mat
+    - Assets/Ground textures pack/Ground & rocks 02/Ground & rocks pattern 02.mat.meta
+    - Assets/Ground textures pack/Ground & rocks 02/diffuse.tga
+    - Assets/Ground textures pack/Ground & rocks 02/diffuse.tga.meta
+    - Assets/Ground textures pack/Ground & rocks 02/normal.tga
+    - Assets/Ground textures pack/Ground & rocks 02/normal.tga.meta
+    - Assets/Ground textures pack/Ground & rocks 02/preview.jpg
+    - Assets/Ground textures pack/Ground & rocks 02/preview.jpg.meta
+    - Assets/Ground textures pack/Ground & rocks 03.meta
+    - Assets/Ground textures pack/Ground & rocks 03/Ground & rocks pattern 03.mat
+    - Assets/Ground textures pack/Ground & rocks 03/Ground & rocks pattern 03.mat.meta
+    - Assets/Ground textures pack/Ground & rocks 03/diffuse.tga
+    - Assets/Ground textures pack/Ground & rocks 03/diffuse.tga.meta
+    - Assets/Ground textures pack/Ground & rocks 03/normal.tga
+    - Assets/Ground textures pack/Ground & rocks 03/normal.tga.meta
+    - Assets/Ground textures pack/Ground & rocks 03/preview.jpg
+    - Assets/Ground textures pack/Ground & rocks 03/preview.jpg.meta
+    - Assets/Ground textures pack/Ground & weeds.meta
+    - Assets/Ground textures pack/Ground & weeds/Ground & weeds.mat
+    - Assets/Ground textures pack/Ground & weeds/Ground & weeds.mat.meta
+    - Assets/Ground textures pack/Ground & weeds/diffuse.tga
+    - Assets/Ground textures pack/Ground & weeds/diffuse.tga.meta
+    - Assets/Ground textures pack/Ground & weeds/normal.tga
+    - Assets/Ground textures pack/Ground & weeds/normal.tga.meta
+    - Assets/Ground textures pack/Ground & weeds/preview.jpg
+    - Assets/Ground textures pack/Ground & weeds/preview.jpg.meta
+    - Assets/Ground textures pack/Ground 01.meta
+    - Assets/Ground textures pack/Ground 01/Ground pattern 01.mat
+    - Assets/Ground textures pack/Ground 01/Ground pattern 01.mat.meta
+    - Assets/Ground textures pack/Ground 01/diffuse.tga
+    - Assets/Ground textures pack/Ground 01/diffuse.tga.meta
+    - Assets/Ground textures pack/Ground 01/normal.tga
+    - Assets/Ground textures pack/Ground 01/normal.tga.meta
+    - Assets/Ground textures pack/Ground 01/preview.jpg
+    - Assets/Ground textures pack/Ground 01/preview.jpg.meta
+    - Assets/Ground textures pack/Ground 02.meta
+    - Assets/Ground textures pack/Ground 02/Ground pattern 02.mat
+    - Assets/Ground textures pack/Ground 02/Ground pattern 02.mat.meta
+    - Assets/Ground textures pack/Ground 02/diffuse.tga
+    - Assets/Ground textures pack/Ground 02/diffuse.tga.meta
+    - Assets/Ground textures pack/Ground 02/normal.tga
+    - Assets/Ground textures pack/Ground 02/normal.tga.meta
+    - Assets/Ground textures pack/Ground 02/preview.jpg
+    - Assets/Ground textures pack/Ground 02/preview.jpg.meta
+    - Assets/Ground textures pack/Lava.meta
+    - Assets/Ground textures pack/Lava/Lava pattern.mat
+    - Assets/Ground textures pack/Lava/Lava pattern.mat.meta
+    - Assets/Ground textures pack/Lava/Materials.meta
+    - Assets/Ground textures pack/Lava/Materials/diffuse.mat
+    - Assets/Ground textures pack/Lava/Materials/diffuse.mat.meta
+    - Assets/Ground textures pack/Lava/Materials/normal.mat
+    - Assets/Ground textures pack/Lava/Materials/normal.mat.meta
+    - Assets/Ground textures pack/Lava/diffuse.tga
+    - Assets/Ground textures pack/Lava/diffuse.tga.meta
+    - Assets/Ground textures pack/Lava/emissive.tga
+    - Assets/Ground textures pack/Lava/emissive.tga.meta
+    - Assets/Ground textures pack/Lava/normal.tga
+    - Assets/Ground textures pack/Lava/normal.tga.meta
+    - Assets/Ground textures pack/Lava/preview.jpg
+    - Assets/Ground textures pack/Lava/preview.jpg.meta
+    - Assets/Industrial Props.meta
+    - Assets/Industrial Props/Demo.meta
+    - Assets/Industrial Props/Demo/Demo.unity
+    - Assets/Industrial Props/Demo/Demo.unity.meta
+    - Assets/Industrial Props/Demo/DemoSettings.lighting
+    - Assets/Industrial Props/Demo/DemoSettings.lighting.meta
+    - Assets/Industrial Props/Materials 1.meta
+    - Assets/Industrial Props/Materials 1/Black.mat
+    - Assets/Industrial Props/Materials 1/Black.mat.meta
+    - Assets/Industrial Props/Materials 1/Concrete.mat
+    - Assets/Industrial Props/Materials 1/Concrete.mat.meta
+    - Assets/Industrial Props/Materials 1/Concrete2.mat
+    - Assets/Industrial Props/Materials 1/Concrete2.mat.meta
+    - Assets/Industrial Props/Materials 1/Green.mat
+    - Assets/Industrial Props/Materials 1/Green.mat.meta
+    - Assets/Industrial Props/Materials 1/GreenMetal.mat
+    - Assets/Industrial Props/Materials 1/GreenMetal.mat.meta
+    - Assets/Industrial Props/Materials 1/Metal1.mat
+    - Assets/Industrial Props/Materials 1/Metal1.mat.meta
+    - Assets/Industrial Props/Materials 1/Metal2.mat
+    - Assets/Industrial Props/Materials 1/Metal2.mat.meta
+    - Assets/Industrial Props/Materials 1/MetalShine.mat
+    - Assets/Industrial Props/Materials 1/MetalShine.mat.meta
+    - Assets/Industrial Props/Materials 1/Orange.mat
+    - Assets/Industrial Props/Materials 1/Orange.mat.meta
+    - Assets/Industrial Props/Materials 1/Plastic.mat
+    - Assets/Industrial Props/Materials 1/Plastic.mat.meta
+    - Assets/Industrial Props/Materials 1/UnlightWhite.mat
+    - Assets/Industrial Props/Materials 1/UnlightWhite.mat.meta
+    - Assets/Industrial Props/Materials 1/Wood1.mat
+    - Assets/Industrial Props/Materials 1/Wood1.mat.meta
+    - Assets/Industrial Props/Materials 1/Wood2.mat
+    - Assets/Industrial Props/Materials 1/Wood2.mat.meta
+    - Assets/Industrial Props/Materials 1/Wood3.mat
+    - Assets/Industrial Props/Materials 1/Wood3.mat.meta
+    - Assets/Industrial Props/Materials 1/Wood4.mat
+    - Assets/Industrial Props/Materials 1/Wood4.mat.meta
+    - Assets/Industrial Props/Materials 1/Wood5.mat
+    - Assets/Industrial Props/Materials 1/Wood5.mat.meta
+    - Assets/Industrial Props/Materials 1/Wood6.mat
+    - Assets/Industrial Props/Materials 1/Wood6.mat.meta
+    - Assets/Industrial Props/Materials 1/Wood7.mat
+    - Assets/Industrial Props/Materials 1/Wood7.mat.meta
+    - Assets/Industrial Props/Mesh.meta
+    - Assets/Industrial Props/Mesh/CinderBlock 1.fbx
+    - Assets/Industrial Props/Mesh/CinderBlock 1.fbx.meta
+    - Assets/Industrial Props/Mesh/ConstructionCone 1.fbx
+    - Assets/Industrial Props/Mesh/ConstructionCone 1.fbx.meta
+    - Assets/Industrial Props/Mesh/Fence.fbx
+    - Assets/Industrial Props/Mesh/Fence.fbx.meta
+    - Assets/Industrial Props/Mesh/Ibeam.fbx
+    - Assets/Industrial Props/Mesh/Ibeam.fbx.meta
+    - Assets/Industrial Props/Mesh/LightPole.fbx
+    - Assets/Industrial Props/Mesh/LightPole.fbx.meta
+    - Assets/Industrial Props/Mesh/Materials.meta
+    - Assets/Industrial Props/Mesh/Materials/No Name.mat
+    - Assets/Industrial Props/Mesh/Materials/No Name.mat.meta
+    - Assets/Industrial Props/Mesh/OxygenTank 1.fbx
+    - Assets/Industrial Props/Mesh/OxygenTank 1.fbx.meta
+    - Assets/Industrial Props/Mesh/RoadDivider 1.fbx
+    - Assets/Industrial Props/Mesh/RoadDivider 1.fbx.meta
+    - Assets/Industrial Props/Mesh/Scaffolding.fbx
+    - Assets/Industrial Props/Mesh/Scaffolding.fbx.meta
+    - Assets/Industrial Props/Mesh/WaterTank.fbx
+    - Assets/Industrial Props/Mesh/WaterTank.fbx.meta
+    - Assets/Industrial Props/Mesh/WorkLight 2.fbx
+    - Assets/Industrial Props/Mesh/WorkLight 2.fbx.meta
+    - Assets/Industrial Props/Mesh/pallet 1.fbx
+    - Assets/Industrial Props/Mesh/pallet 1.fbx.meta
+    - Assets/Industrial Props/Prefabs.meta
+    - Assets/Industrial Props/Prefabs/CinderBlock.prefab
+    - Assets/Industrial Props/Prefabs/CinderBlock.prefab.meta
+    - Assets/Industrial Props/Prefabs/ConstructionCone.prefab
+    - Assets/Industrial Props/Prefabs/ConstructionCone.prefab.meta
+    - Assets/Industrial Props/Prefabs/Fence.prefab
+    - Assets/Industrial Props/Prefabs/Fence.prefab.meta
+    - Assets/Industrial Props/Prefabs/Ibeam.prefab
+    - Assets/Industrial Props/Prefabs/Ibeam.prefab.meta
+    - Assets/Industrial Props/Prefabs/LightPole.prefab
+    - Assets/Industrial Props/Prefabs/LightPole.prefab.meta
+    - Assets/Industrial Props/Prefabs/OxygenTank.prefab
+    - Assets/Industrial Props/Prefabs/OxygenTank.prefab.meta
+    - Assets/Industrial Props/Prefabs/RoadDivider.prefab
+    - Assets/Industrial Props/Prefabs/RoadDivider.prefab.meta
+    - Assets/Industrial Props/Prefabs/Scaffolding.prefab
+    - Assets/Industrial Props/Prefabs/Scaffolding.prefab.meta
+    - Assets/Industrial Props/Prefabs/WaterTank.prefab
+    - Assets/Industrial Props/Prefabs/WaterTank.prefab.meta
+    - Assets/Industrial Props/Prefabs/WorkLight.prefab
+    - Assets/Industrial Props/Prefabs/WorkLight.prefab.meta
+    - Assets/Industrial Props/Prefabs/pallet.prefab
+    - Assets/Industrial Props/Prefabs/pallet.prefab.meta
+    - Assets/Industrial Props/ReadMe.txt
+    - Assets/Industrial Props/ReadMe.txt.meta
+    - Assets/Industrial Props/Textures.meta
+    - Assets/Industrial Props/Textures/Concrete.jpg
+    - Assets/Industrial Props/Textures/Concrete.jpg.meta
+    - Assets/Industrial Props/Textures/GreenMetal.jpg
+    - Assets/Industrial Props/Textures/GreenMetal.jpg.meta
+    - Assets/Industrial Props/Textures/Metal1.jpg
+    - Assets/Industrial Props/Textures/Metal1.jpg.meta
+    - Assets/Industrial Props/Textures/Seamless Metal.jpg
+    - Assets/Industrial Props/Textures/Seamless Metal.jpg.meta
+    - Assets/Industrial Props/Textures/Wood2.jpg
+    - Assets/Industrial Props/Textures/Wood2.jpg.meta
+    - Assets/Industrial Props/Textures/Wood3.jpg
+    - Assets/Industrial Props/Textures/Wood3.jpg.meta
+    - Assets/Industrial Props/Textures/wood 4.jpg
+    - Assets/Industrial Props/Textures/wood 4.jpg.meta
+    - Assets/Prop.meta
+    - Assets/Prop/Lighting Generator.meta
+    - Assets/Prop/Lighting Generator/LG1.jpg
+    - Assets/Prop/Lighting Generator/LG1.jpg.meta
+    - Assets/Prop/Lighting Generator/Materials.meta
+    - Assets/Prop/Lighting Generator/Materials/LG1.mat
+    - Assets/Prop/Lighting Generator/Materials/LG1.mat.meta
+    - Assets/Prop/Lighting Generator/Materials/PRP_LightingGenerator_01_DM.mat
+    - Assets/Prop/Lighting Generator/Materials/PRP_LightingGenerator_01_DM.mat.meta
+    - Assets/Prop/Lighting Generator/Materials/PRP_LightingGenerator_01_NM.mat
+    - Assets/Prop/Lighting Generator/Materials/PRP_LightingGenerator_01_NM.mat.meta
+    - Assets/Prop/Lighting Generator/Materials/big_preciseLG.mat
+    - Assets/Prop/Lighting Generator/Materials/big_preciseLG.mat.meta
+    - Assets/Prop/Lighting Generator/Materials/icon_preciseLG.mat
+    - Assets/Prop/Lighting Generator/Materials/icon_preciseLG.mat.meta
+    - Assets/Prop/Lighting Generator/Materials/small_preciseLG.mat
+    - Assets/Prop/Lighting Generator/Materials/small_preciseLG.mat.meta
+    - Assets/Prop/Lighting Generator/PRP_LightingGenerator.FBX
+    - Assets/Prop/Lighting Generator/PRP_LightingGenerator.FBX.meta
+    - Assets/Prop/Lighting Generator/PRP_LightingGenerator_01_DM.jpg
+    - Assets/Prop/Lighting Generator/PRP_LightingGenerator_01_DM.jpg.meta
+    - Assets/Prop/Lighting Generator/PRP_LightingGenerator_01_NM.jpg
+    - Assets/Prop/Lighting Generator/PRP_LightingGenerator_01_NM.jpg.meta
+    - Assets/Prop/Lighting Generator/big_preciseLG.jpg
+    - Assets/Prop/Lighting Generator/big_preciseLG.jpg.meta
+    - Assets/Prop/Lighting Generator/icon_preciseLG.jpg
+    - Assets/Prop/Lighting Generator/icon_preciseLG.jpg.meta
+    - Assets/Prop/Lighting Generator/small_preciseLG.jpg
+    - Assets/Prop/Lighting Generator/small_preciseLG.jpg.meta
+    - Assets/Robot Kyle.meta
+    - Assets/Robot Kyle/Materials.meta
+    - Assets/Robot Kyle/Materials/Robot_Color.mat
+    - Assets/Robot Kyle/Materials/Robot_Color.mat.meta
+    - Assets/Robot Kyle/Model.meta
+    - Assets/Robot Kyle/Model/Robot Kyle.fbx
+    - Assets/Robot Kyle/Model/Robot Kyle.fbx.meta
+    - Assets/Robot Kyle/Textures.meta
+    - Assets/Robot Kyle/Textures/Robot_Color.tga
+    - Assets/Robot Kyle/Textures/Robot_Color.tga.meta
+    - Assets/Robot Kyle/Textures/Robot_Normal.tga
+    - Assets/Robot Kyle/Textures/Robot_Normal.tga.meta
+    - Assets/SkySerie Freebie.meta
+    - Assets/SkySerie Freebie/6SidedFluffball.mat
+    - Assets/SkySerie Freebie/6SidedFluffball.mat.meta
+    - Assets/SkySerie Freebie/6SidedMegaSun.mat
+    - Assets/SkySerie Freebie/6SidedMegaSun.mat.meta
+    - Assets/SkySerie Freebie/AmbienceExposure.mat
+    - Assets/SkySerie Freebie/AmbienceExposure.mat.meta
+    - Assets/SkySerie Freebie/CasualDay.mat
+    - Assets/SkySerie Freebie/CasualDay.mat.meta
+    - Assets/SkySerie Freebie/CloudedSunGlow.mat
+    - Assets/SkySerie Freebie/CloudedSunGlow.mat.meta
+    - Assets/SkySerie Freebie/Cloudymorning.mat
+    - Assets/SkySerie Freebie/Cloudymorning.mat.meta
+    - Assets/SkySerie Freebie/CoriolisNight4k.mat
+    - Assets/SkySerie Freebie/CoriolisNight4k.mat.meta
+    - Assets/SkySerie Freebie/CosmicCoolCloud.mat
+    - Assets/SkySerie Freebie/CosmicCoolCloud.mat.meta
+    - Assets/SkySerie Freebie/DarkStorm.mat
+    - Assets/SkySerie Freebie/DarkStorm.mat.meta
+    - Assets/SkySerie Freebie/DayInTheClouds.mat
+    - Assets/SkySerie Freebie/DayInTheClouds.mat.meta
+    - Assets/SkySerie Freebie/ExampleScenes.meta
+    - Assets/SkySerie Freebie/ExampleScenes/AmbienceExposure.unity
+    - Assets/SkySerie Freebie/ExampleScenes/AmbienceExposure.unity.meta
+    - Assets/SkySerie Freebie/ExampleScenes/AmbienceExposureSettings.lighting
+    - Assets/SkySerie Freebie/ExampleScenes/AmbienceExposureSettings.lighting.meta
+    - Assets/SkySerie Freebie/ExampleScenes/CasualDay.unity
+    - Assets/SkySerie Freebie/ExampleScenes/CasualDay.unity.meta
+    - Assets/SkySerie Freebie/ExampleScenes/CasualDaySettings.lighting
+    - Assets/SkySerie Freebie/ExampleScenes/CasualDaySettings.lighting.meta
+    - Assets/SkySerie Freebie/ExampleScenes/CloudyMorning.unity
+    - Assets/SkySerie Freebie/ExampleScenes/CloudyMorning.unity.meta
+    - Assets/SkySerie Freebie/ExampleScenes/CloudyMorningSettings.lighting
+    - Assets/SkySerie Freebie/ExampleScenes/CloudyMorningSettings.lighting.meta
+    - Assets/SkySerie Freebie/ExampleScenes/CosmicCoolCloud.unity
+    - Assets/SkySerie Freebie/ExampleScenes/CosmicCoolCloud.unity.meta
+    - Assets/SkySerie Freebie/ExampleScenes/CosmicCoolCloudSettings.lighting
+    - Assets/SkySerie Freebie/ExampleScenes/CosmicCoolCloudSettings.lighting.meta
+    - Assets/SkySerie Freebie/ExampleScenes/DarkStorm.unity
+    - Assets/SkySerie Freebie/ExampleScenes/DarkStorm.unity.meta
+    - Assets/SkySerie Freebie/ExampleScenes/DarkStormSettings.lighting
+    - Assets/SkySerie Freebie/ExampleScenes/DarkStormSettings.lighting.meta
+    - Assets/SkySerie Freebie/ExampleScenes/DayInTheClouds.unity
+    - Assets/SkySerie Freebie/ExampleScenes/DayInTheClouds.unity.meta
+    - Assets/SkySerie Freebie/ExampleScenes/DayInTheCloudsSettings.lighting
+    - Assets/SkySerie Freebie/ExampleScenes/DayInTheCloudsSettings.lighting.meta
+    - Assets/SkySerie Freebie/ExampleScenes/Daylightfreebiedemo.unity
+    - Assets/SkySerie Freebie/ExampleScenes/Daylightfreebiedemo.unity.meta
+    - Assets/SkySerie Freebie/ExampleScenes/DaylightfreebiedemoSettings.lighting
+    - Assets/SkySerie Freebie/ExampleScenes/DaylightfreebiedemoSettings.lighting.meta
+    - Assets/SkySerie Freebie/ExampleScenes/HighFantasy.unity
+    - Assets/SkySerie Freebie/ExampleScenes/HighFantasy.unity.meta
+    - Assets/SkySerie Freebie/ExampleScenes/HighFantasySettings.lighting
+    - Assets/SkySerie Freebie/ExampleScenes/HighFantasySettings.lighting.meta
+    - Assets/SkySerie Freebie/ExampleScenes/MidNightFreebieDemo.unity
+    - Assets/SkySerie Freebie/ExampleScenes/MidNightFreebieDemo.unity.meta
+    - Assets/SkySerie Freebie/ExampleScenes/PlanetaryFreebie.unity
+    - Assets/SkySerie Freebie/ExampleScenes/PlanetaryFreebie.unity.meta
+    - Assets/SkySerie Freebie/ExampleScenes/PlanetaryFreebieSettings.lighting
+    - Assets/SkySerie Freebie/ExampleScenes/PlanetaryFreebieSettings.lighting.meta
+    - Assets/SkySerie Freebie/ExampleScenes/SceneObjects.meta
+    - Assets/SkySerie Freebie/ExampleScenes/SceneObjects/2_10.mat
+    - Assets/SkySerie Freebie/ExampleScenes/SceneObjects/2_10.mat.meta
+    - Assets/SkySerie Freebie/ExampleScenes/SceneObjects/4_10.mat
+    - Assets/SkySerie Freebie/ExampleScenes/SceneObjects/4_10.mat.meta
+    - Assets/SkySerie Freebie/ExampleScenes/SceneObjects/6_10.mat
+    - Assets/SkySerie Freebie/ExampleScenes/SceneObjects/6_10.mat.meta
+    - Assets/SkySerie Freebie/ExampleScenes/SceneObjects/8_10.mat
+    - Assets/SkySerie Freebie/ExampleScenes/SceneObjects/8_10.mat.meta
+    - Assets/SkySerie Freebie/ExampleScenes/SceneObjects/DemoObjects.prefab
+    - Assets/SkySerie Freebie/ExampleScenes/SceneObjects/DemoObjects.prefab.meta
+    - Assets/SkySerie Freebie/ExampleScenes/SceneObjects/Full.mat
+    - Assets/SkySerie Freebie/ExampleScenes/SceneObjects/Full.mat.meta
+    - Assets/SkySerie Freebie/ExampleScenes/SkyhighFreebieDemo.unity
+    - Assets/SkySerie Freebie/ExampleScenes/SkyhighFreebieDemo.unity.meta
+    - Assets/SkySerie Freebie/ExampleScenes/SundownFreebieDemo.unity
+    - Assets/SkySerie Freebie/ExampleScenes/SundownFreebieDemo.unity.meta
+    - Assets/SkySerie Freebie/ExampleScenes/SunlessFreebieDemo.unity
+    - Assets/SkySerie Freebie/ExampleScenes/SunlessFreebieDemo.unity.meta
+    - Assets/SkySerie Freebie/ExampleScenes/UnEarthlyRed.unity
+    - Assets/SkySerie Freebie/ExampleScenes/UnEarthlyRed.unity.meta
+    - Assets/SkySerie Freebie/ExampleScenes/UnEarthlyRedSettings.lighting
+    - Assets/SkySerie Freebie/ExampleScenes/UnEarthlyRedSettings.lighting.meta
+    - Assets/SkySerie Freebie/ExampleScenes/UnderTheSea.unity
+    - Assets/SkySerie Freebie/ExampleScenes/UnderTheSea.unity.meta
+    - Assets/SkySerie Freebie/ExampleScenes/UnderTheSeaSettings.lighting
+    - Assets/SkySerie Freebie/ExampleScenes/UnderTheSeaSettings.lighting.meta
+    - Assets/SkySerie Freebie/FluffballDay.mat
+    - Assets/SkySerie Freebie/FluffballDay.mat.meta
+    - Assets/SkySerie Freebie/FreebieHdri.meta
+    - Assets/SkySerie Freebie/FreebieHdri/AmbienceExposure4k.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/AmbienceExposure4k.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/CasualDay4K.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/CasualDay4K.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/CloudedSunGlow4k.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/CloudedSunGlow4k.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/Cloudymorning4k.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/Cloudymorning4k.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/CoriolisNight4k.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/CoriolisNight4k.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/CosmicCoolCloudBack.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/CosmicCoolCloudBack.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/CosmicCoolCloudBottom.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/CosmicCoolCloudBottom.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/CosmicCoolCloudFront.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/CosmicCoolCloudFront.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/CosmicCoolCloudLeft.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/CosmicCoolCloudLeft.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/CosmicCoolCloudRight.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/CosmicCoolCloudRight.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/CosmicCoolCloudTop.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/CosmicCoolCloudTop.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/DarkStorm4K.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/DarkStorm4K.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/DayInTheClouds4k.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/DayInTheClouds4k.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/FluffballDay4k.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/FluffballDay4k.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/FluffballDayBack.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/FluffballDayBack.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/FluffballDayBottom.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/FluffballDayBottom.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/FluffballDayFront.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/FluffballDayFront.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/FluffballDayLeft.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/FluffballDayLeft.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/FluffballDayRight.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/FluffballDayRight.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/FluffballDayTop.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/FluffballDayTop.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/HighFantasy4k.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/HighFantasy4k.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/MegaSun4k.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/MegaSun4k.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/MegaSunBack.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/MegaSunBack.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/MegaSunBottom.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/MegaSunBottom.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/MegaSunFront.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/MegaSunFront.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/MegaSunLeft.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/MegaSunLeft.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/MegaSunRight.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/MegaSunRight.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/MegaSunTop.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/MegaSunTop.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/PlanetaryEarth4k.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/PlanetaryEarth4k.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/SkyhighFluffycloudField4k.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/SkyhighFluffycloudField4k.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/SunlessCirruscover4k.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/SunlessCirruscover4k.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/UnderTheSea4k.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/UnderTheSea4k.hdr.meta
+    - Assets/SkySerie Freebie/FreebieHdri/UnearthlyRed4k.hdr
+    - Assets/SkySerie Freebie/FreebieHdri/UnearthlyRed4k.hdr.meta
+    - Assets/SkySerie Freebie/Hdri setup.txt
+    - Assets/SkySerie Freebie/Hdri setup.txt.meta
+    - Assets/SkySerie Freebie/HighFantasy.mat
+    - Assets/SkySerie Freebie/HighFantasy.mat.meta
+    - Assets/SkySerie Freebie/MegaSun.mat
+    - Assets/SkySerie Freebie/MegaSun.mat.meta
+    - Assets/SkySerie Freebie/PlanetaryEarth.mat
+    - Assets/SkySerie Freebie/PlanetaryEarth.mat.meta
+    - Assets/SkySerie Freebie/SkyhighFluffycloudField.mat
+    - Assets/SkySerie Freebie/SkyhighFluffycloudField.mat.meta
+    - Assets/SkySerie Freebie/SunlessCirruscover.mat
+    - Assets/SkySerie Freebie/SunlessCirruscover.mat.meta
+    - Assets/SkySerie Freebie/UnderTheSea4k.mat
+    - Assets/SkySerie Freebie/UnderTheSea4k.mat.meta
+    - Assets/SkySerie Freebie/UnearthlyRed.mat
+    - Assets/SkySerie Freebie/UnearthlyRed.mat.meta
+    - Assets/Thirdparty.meta
+    - Assets/Thirdparty/Gridbox Prototype Materials.meta
+    - Assets/Thirdparty/Gridbox Prototype Materials/Demo.meta
+    - Assets/Thirdparty/Gridbox Prototype Materials/Demo/Prototype Materials Demo.meta
+    - Assets/Thirdparty/Gridbox Prototype Materials/Demo/Prototype Materials Demo.unity
+    - Assets/Thirdparty/Gridbox Prototype Materials/Demo/Prototype Materials Demo.unity.meta
+    - Assets/Thirdparty/Gridbox Prototype Materials/Demo/Prototype Materials Demo/Demo
+      Lightmap Parameters.giparams
+    - Assets/Thirdparty/Gridbox Prototype Materials/Demo/Prototype Materials Demo/Demo
+      Lightmap Parameters.giparams.meta
+    - Assets/Thirdparty/Gridbox Prototype Materials/Demo/Prototype Materials Demo/GI
+      Blocker.mat
+    - Assets/Thirdparty/Gridbox Prototype Materials/Demo/Prototype Materials Demo/GI
+      Blocker.mat.meta
+    - Assets/Thirdparty/Gridbox Prototype Materials/Demo/Prototype Materials Demo/Neon
+      Light.mat
+    - Assets/Thirdparty/Gridbox Prototype Materials/Demo/Prototype Materials Demo/Neon
+      Light.mat.meta
+    - Assets/WorldMaterialsFree.meta
+    - Assets/WorldMaterialsFree/AgedDarkWood_StandardShader.mat
+    - Assets/WorldMaterialsFree/AgedDarkWood_StandardShader.mat.meta
+    - Assets/WorldMaterialsFree/AgedDarkWood_WMShader.mat
+    - Assets/WorldMaterialsFree/AgedDarkWood_WMShader.mat.meta
+    - Assets/WorldMaterialsFree/BasketWeaveBricks_StandardShader.mat
+    - Assets/WorldMaterialsFree/BasketWeaveBricks_StandardShader.mat.meta
+    - Assets/WorldMaterialsFree/BasketWeaveBricks_WMShader.mat
+    - Assets/WorldMaterialsFree/BasketWeaveBricks_WMShader.mat.meta
+    - Assets/WorldMaterialsFree/BathroomTiles_StandardShader.mat
+    - Assets/WorldMaterialsFree/BathroomTiles_StandardShader.mat.meta
+    - Assets/WorldMaterialsFree/BathroomTiles_WMShader.mat
+    - Assets/WorldMaterialsFree/BathroomTiles_WMShader.mat.meta
+    - Assets/WorldMaterialsFree/BrushedIron_StandardShader.mat
+    - Assets/WorldMaterialsFree/BrushedIron_StandardShader.mat.meta
+    - Assets/WorldMaterialsFree/BrushedIron_WMShader.mat
+    - Assets/WorldMaterialsFree/BrushedIron_WMShader.mat.meta
+    - Assets/WorldMaterialsFree/ClumpMud_StandardShader.mat
+    - Assets/WorldMaterialsFree/ClumpMud_StandardShader.mat.meta
+    - Assets/WorldMaterialsFree/ClumpMud_WMShader.mat
+    - Assets/WorldMaterialsFree/ClumpMud_WMShader.mat.meta
+    - Assets/WorldMaterialsFree/CoarseConcrete_StandardShader.mat
+    - Assets/WorldMaterialsFree/CoarseConcrete_StandardShader.mat.meta
+    - Assets/WorldMaterialsFree/CoarseConcrete_WMShader.mat
+    - Assets/WorldMaterialsFree/CoarseConcrete_WMShader.mat.meta
+    - Assets/WorldMaterialsFree/DesertSandBrick_StandardShader.mat
+    - Assets/WorldMaterialsFree/DesertSandBrick_StandardShader.mat.meta
+    - Assets/WorldMaterialsFree/DesertSandBrick_WMShader.mat
+    - Assets/WorldMaterialsFree/DesertSandBrick_WMShader.mat.meta
+    - Assets/WorldMaterialsFree/DryRockyDirt_StandardShader.mat
+    - Assets/WorldMaterialsFree/DryRockyDirt_StandardShader.mat.meta
+    - Assets/WorldMaterialsFree/DryRockyDirt_WMShader.mat
+    - Assets/WorldMaterialsFree/DryRockyDirt_WMShader.mat.meta
+    - Assets/WorldMaterialsFree/FreeDemoScen_StandardShader.unity
+    - Assets/WorldMaterialsFree/FreeDemoScen_StandardShader.unity.meta
+    - Assets/WorldMaterialsFree/FreeDemoScen_WMShader.unity
+    - Assets/WorldMaterialsFree/FreeDemoScen_WMShader.unity.meta
+    - Assets/WorldMaterialsFree/GrassClumps_StandardShader.mat
+    - Assets/WorldMaterialsFree/GrassClumps_StandardShader.mat.meta
+    - Assets/WorldMaterialsFree/GrassClumps_WMShader.mat
+    - Assets/WorldMaterialsFree/GrassClumps_WMShader.mat.meta
+    - Assets/WorldMaterialsFree/GrassGravel_StandardShader.mat
+    - Assets/WorldMaterialsFree/GrassGravel_StandardShader.mat.meta
+    - Assets/WorldMaterialsFree/GrassGravel_WMShader.mat
+    - Assets/WorldMaterialsFree/GrassGravel_WMShader.mat.meta
+    - Assets/WorldMaterialsFree/PebbledGravel_StandardShader.mat
+    - Assets/WorldMaterialsFree/PebbledGravel_StandardShader.mat.meta
+    - Assets/WorldMaterialsFree/PebbledGravel_WMShader.mat
+    - Assets/WorldMaterialsFree/PebbledGravel_WMShader.mat.meta
+    - Assets/WorldMaterialsFree/PlainWhiteFabric_StandardShader.mat
+    - Assets/WorldMaterialsFree/PlainWhiteFabric_StandardShader.mat.meta
+    - Assets/WorldMaterialsFree/PlainWhiteFabric_WMShader.mat
+    - Assets/WorldMaterialsFree/PlainWhiteFabric_WMShader.mat.meta
+    - Assets/WorldMaterialsFree/Resource Files.meta
+    - Assets/WorldMaterialsFree/Resource Files/AgedDarkWood.meta
+    - Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_AO.png
+    - Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_AO.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Albedo.png
+    - Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Albedo.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Normal.png
+    - Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Roughness.png
+    - Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Roughness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Smoothness.png
+    - Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Smoothness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_YFliped_Normal.png
+    - Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_YFliped_Normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_height.png
+    - Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_height.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks.meta
+    - Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Albedo.png
+    - Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Albedo.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Height.png
+    - Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Height.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Normal.png
+    - Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Roughness.png
+    - Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Roughness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Smoothness.png
+    - Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_Smoothness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_YFliped_Normal.png
+    - Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_YFliped_Normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_ao.png
+    - Assets/WorldMaterialsFree/Resource Files/BasketWeaveBricks/BasketWeaveBricks_ao.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BathroomTiles.meta
+    - Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_Roughness.png
+    - Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_Roughness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_YFliped_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_YFliped_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_albedo.png
+    - Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_albedo.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_ao.png
+    - Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_ao.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_height.png
+    - Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_height.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_smoothness.png
+    - Assets/WorldMaterialsFree/Resource Files/BathroomTiles/BathroomTiles_smoothness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BrushedIron.meta
+    - Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_AO.png
+    - Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_AO.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Albedo.png
+    - Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Albedo.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Height.png
+    - Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Height.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Metallic.png
+    - Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Metallic.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Normal.png
+    - Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Roughness.png
+    - Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Roughness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Smoothness.png
+    - Assets/WorldMaterialsFree/Resource Files/BrushedIron/BrushedIron_Smoothness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/ClumpMud.meta
+    - Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_Grass_Ao.png
+    - Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_Grass_Ao.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_Height.png
+    - Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_Height.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_Normal.png
+    - Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_Normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_Roughness.png
+    - Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_Roughness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_YFliped_Normal.png
+    - Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_YFliped_Normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_albedo.png
+    - Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_albedo.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_smoothness.png
+    - Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_smoothness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/CoarseConcrete.meta
+    - Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_Albedo.png
+    - Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_Albedo.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_YFliped_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_YFliped_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_ao.png
+    - Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_ao.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_height.png
+    - Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_height.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_roughness.png
+    - Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_roughness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_smoothness.png
+    - Assets/WorldMaterialsFree/Resource Files/CoarseConcrete/CoarseConcrete_smoothness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/DesertSandBrick.meta
+    - Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_AO.png
+    - Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_AO.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_Albedo.png
+    - Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_Albedo.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_Smoothness.png
+    - Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_Smoothness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_YFliped_Normal.png
+    - Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_YFliped_Normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_height.png
+    - Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_height.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_roughness.png
+    - Assets/WorldMaterialsFree/Resource Files/DesertSandBrick/DesertSandBricks_roughness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/DryRockyDirt.meta
+    - Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_AO.png
+    - Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_AO.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Albedo.png
+    - Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Albedo.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Height.png
+    - Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Height.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Normal.png
+    - Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Roughness.png
+    - Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Roughness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Smoothness.png
+    - Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_Smoothness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_YFliped_Normal.png
+    - Assets/WorldMaterialsFree/Resource Files/DryRockyDirt/DryRockyDirt_YFliped_Normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassClumps.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_Yfliped_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_Yfliped_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_albedo.png
+    - Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_albedo.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_ao.png
+    - Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_ao.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_height.png
+    - Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_height.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_roughness.png
+    - Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_roughness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_smoothness.png
+    - Assets/WorldMaterialsFree/Resource Files/GrassClumps/GrassClumps_smoothness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassGravel.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_Albedo.png
+    - Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_Albedo.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_YFliped_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_YFliped_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_ao.png
+    - Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_ao.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_height.png
+    - Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_height.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_roughness.png
+    - Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_roughness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_smoothness.png
+    - Assets/WorldMaterialsFree/Resource Files/GrassGravel/GrassGravel_smoothness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/PebbledGravel.meta
+    - Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_Albedo.png
+    - Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_Albedo.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_YFliped_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_YFliped_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_ao.png
+    - Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_ao.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_height.png
+    - Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_height.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_roughness.png
+    - Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_roughness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_smoothness.png
+    - Assets/WorldMaterialsFree/Resource Files/PebbledGravel/PebbledGravel_smoothness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/PlainFabric.meta
+    - Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_AO.png
+    - Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_AO.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_Albedo.png
+    - Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_Albedo.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_Smoothness.png
+    - Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_Smoothness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_YFliped_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_YFliped_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_height.png
+    - Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_height.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_roughness.png
+    - Assets/WorldMaterialsFree/Resource Files/PlainFabric/PlainFabric_roughness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks.meta
+    - Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_AO.png
+    - Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_AO.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_Albedo.png
+    - Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_Albedo.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_Smoothness.png
+    - Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_Smoothness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_YFliped_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_YFliped_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_height.png
+    - Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_height.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_roughness.png
+    - Assets/WorldMaterialsFree/Resource Files/SimpleRedBricks/SimpleRedBricks_roughness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/WavySand.meta
+    - Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_AO.png
+    - Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_AO.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_YFliped_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_YFliped_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_albedo.png
+    - Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_albedo.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_height.png
+    - Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_height.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_metallic.png
+    - Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_metallic.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_normal.png
+    - Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_smoothness.png
+    - Assets/WorldMaterialsFree/Resource Files/WavySand/WavySand_smoothness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/WoodenFlooring.meta
+    - Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_AO.png
+    - Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_AO.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Albedo.png
+    - Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Albedo.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Height.png
+    - Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Height.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Normal.png
+    - Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Normal.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Roughness.png
+    - Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Roughness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Smoothness.png
+    - Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_Smoothness.png.meta
+    - Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_YFliped_Normal.png
+    - Assets/WorldMaterialsFree/Resource Files/WoodenFlooring/WoodenFlooring_YFliped_Normal.png.meta
+    - Assets/WorldMaterialsFree/SimpleRedBricks_StandardShader.mat
+    - Assets/WorldMaterialsFree/SimpleRedBricks_StandardShader.mat.meta
+    - Assets/WorldMaterialsFree/SimpleRedBricks_WMShader.mat
+    - Assets/WorldMaterialsFree/SimpleRedBricks_WMShader.mat.meta
+    - Assets/WorldMaterialsFree/WaveSand_StandardShader.mat
+    - Assets/WorldMaterialsFree/WaveSand_StandardShader.mat.meta
+    - Assets/WorldMaterialsFree/WavySand_WMShader.mat
+    - Assets/WorldMaterialsFree/WavySand_WMShader.mat.meta
+    - Assets/WorldMaterialsFree/WoodenFlooring_StandardShader.mat
+    - Assets/WorldMaterialsFree/WoodenFlooring_StandardShader.mat.meta
+    - Assets/WorldMaterialsFree/WoodenFlooring_WMShader.mat
+    - Assets/WorldMaterialsFree/WoodenFlooring_WMShader.mat.meta
+    - Assets/WorldMaterialsFree/WorldMatFree.shader
+    - Assets/WorldMaterialsFree/WorldMatFree.shader.meta
+    - Assets/WorldMaterialsFree/WorldMatLiteFree.shader
+    - Assets/WorldMaterialsFree/WorldMatLiteFree.shader.meta
     - 
-    m_Values: 01
+    m_Values: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
